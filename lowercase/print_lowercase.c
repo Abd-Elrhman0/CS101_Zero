@@ -6,7 +6,8 @@ int main(void)
 	int x;
 	for (x = 0x61; x <= 0x7A; x++)
 	{	putchar(x);
+		putchar(' ');
 }
-printf("\n");
+putchar('\n');
 return 0;
 }
