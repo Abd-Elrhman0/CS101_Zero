@@ -1,0 +1,6 @@
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdio.h>
+#include <stdlib.h>
+int print0_14(void);
+#endif // !ΜΑΙΝ Η
